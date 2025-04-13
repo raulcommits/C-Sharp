@@ -1,0 +1,16 @@
+D:\SharpDeveloper (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\bin\Debug\Atividade 19 (Jogo da Forca).exe.config
+D:\SharpDeveloper (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\bin\Debug\Atividade 19 (Jogo da Forca).exe
+D:\SharpDeveloper (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\bin\Debug\Atividade 19 (Jogo da Forca).pdb
+D:\SharpDeveloper (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\obj\Debug\Atividade 19 (Jogo da Forca).csprojResolveAssemblyReference.cache
+D:\SharpDeveloper (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\obj\Debug\Atividade_19__Jogo_da_Forca_.MainForm.resources
+D:\SharpDeveloper (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\obj\Debug\Atividade 19 (Jogo da Forca).csproj.GenerateResource.Cache
+D:\SharpDeveloper (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\obj\Debug\Atividade 19 (Jogo da Forca).exe
+D:\SharpDeveloper (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\obj\Debug\Atividade 19 (Jogo da Forca).pdb
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\bin\Debug\Atividade 19 (Jogo da Forca).exe.config
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\bin\Debug\Atividade 19 (Jogo da Forca).exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\bin\Debug\Atividade 19 (Jogo da Forca).pdb
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\obj\Debug\Atividade 19 (Jogo da Forca).csprojResolveAssemblyReference.cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\obj\Debug\Atividade_19__Jogo_da_Forca_.MainForm.resources
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\obj\Debug\Atividade 19 (Jogo da Forca).csproj.GenerateResource.Cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\obj\Debug\Atividade 19 (Jogo da Forca).exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 19 (Jogo da Forca)\Atividade 19 (Jogo da Forca)\obj\Debug\Atividade 19 (Jogo da Forca).pdb

@@ -1,0 +1,8 @@
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 24 (Carros)\Atividade 24 (Carros)\bin\Debug\Atividade 24 (Carros).exe.config
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 24 (Carros)\Atividade 24 (Carros)\bin\Debug\Atividade 24 (Carros).exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 24 (Carros)\Atividade 24 (Carros)\bin\Debug\Atividade 24 (Carros).pdb
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 24 (Carros)\Atividade 24 (Carros)\obj\Debug\Atividade 24 (Carros).csprojResolveAssemblyReference.cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 24 (Carros)\Atividade 24 (Carros)\obj\Debug\Atividade_24__Carros_.MainForm.resources
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 24 (Carros)\Atividade 24 (Carros)\obj\Debug\Atividade 24 (Carros).csproj.GenerateResource.Cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 24 (Carros)\Atividade 24 (Carros)\obj\Debug\Atividade 24 (Carros).exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 24 (Carros)\Atividade 24 (Carros)\obj\Debug\Atividade 24 (Carros).pdb

@@ -1,0 +1,8 @@
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 26 (Varejo)\Atividade 26 (Varejo)\bin\Debug\Atividade 26 (Varejo).exe.config
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 26 (Varejo)\Atividade 26 (Varejo)\bin\Debug\Atividade 26 (Varejo).exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 26 (Varejo)\Atividade 26 (Varejo)\bin\Debug\Atividade 26 (Varejo).pdb
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 26 (Varejo)\Atividade 26 (Varejo)\obj\Debug\Atividade 26 (Varejo).csprojResolveAssemblyReference.cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 26 (Varejo)\Atividade 26 (Varejo)\obj\Debug\Atividade_26__Varejo_.MainForm.resources
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 26 (Varejo)\Atividade 26 (Varejo)\obj\Debug\Atividade 26 (Varejo).csproj.GenerateResource.Cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 26 (Varejo)\Atividade 26 (Varejo)\obj\Debug\Atividade 26 (Varejo).exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 26 (Varejo)\Atividade 26 (Varejo)\obj\Debug\Atividade 26 (Varejo).pdb

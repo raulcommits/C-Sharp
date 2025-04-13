@@ -1,0 +1,8 @@
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 20 (Vetores - Nomes)\Atividade 20 (Vetores - Nomes)\bin\Debug\Atividade 20 (Vetores - Nomes).exe.config
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 20 (Vetores - Nomes)\Atividade 20 (Vetores - Nomes)\bin\Debug\Atividade 20 (Vetores - Nomes).exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 20 (Vetores - Nomes)\Atividade 20 (Vetores - Nomes)\bin\Debug\Atividade 20 (Vetores - Nomes).pdb
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 20 (Vetores - Nomes)\Atividade 20 (Vetores - Nomes)\obj\Debug\Atividade 20 (Vetores - Nomes).csprojResolveAssemblyReference.cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 20 (Vetores - Nomes)\Atividade 20 (Vetores - Nomes)\obj\Debug\Atividade_20__Vetores___Nomes_.MainForm.resources
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 20 (Vetores - Nomes)\Atividade 20 (Vetores - Nomes)\obj\Debug\Atividade 20 (Vetores - Nomes).csproj.GenerateResource.Cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 20 (Vetores - Nomes)\Atividade 20 (Vetores - Nomes)\obj\Debug\Atividade 20 (Vetores - Nomes).exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 20 (Vetores - Nomes)\Atividade 20 (Vetores - Nomes)\obj\Debug\Atividade 20 (Vetores - Nomes).pdb

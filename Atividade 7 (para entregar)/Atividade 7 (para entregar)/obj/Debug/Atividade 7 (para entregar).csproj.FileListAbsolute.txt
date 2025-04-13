@@ -1,0 +1,8 @@
+D:\SharpDeveloper (Saiz)\Atividade 7 (para entregar)\Atividade 7 (para entregar)\bin\Debug\Atividade 7 (para entregar).exe.config
+D:\SharpDeveloper (Saiz)\Atividade 7 (para entregar)\Atividade 7 (para entregar)\bin\Debug\Atividade 7 (para entregar).exe
+D:\SharpDeveloper (Saiz)\Atividade 7 (para entregar)\Atividade 7 (para entregar)\bin\Debug\Atividade 7 (para entregar).pdb
+D:\SharpDeveloper (Saiz)\Atividade 7 (para entregar)\Atividade 7 (para entregar)\obj\Debug\Atividade 7 (para entregar).csprojResolveAssemblyReference.cache
+D:\SharpDeveloper (Saiz)\Atividade 7 (para entregar)\Atividade 7 (para entregar)\obj\Debug\Atividade_7__para_entregar_.MainForm.resources
+D:\SharpDeveloper (Saiz)\Atividade 7 (para entregar)\Atividade 7 (para entregar)\obj\Debug\Atividade 7 (para entregar).csproj.GenerateResource.Cache
+D:\SharpDeveloper (Saiz)\Atividade 7 (para entregar)\Atividade 7 (para entregar)\obj\Debug\Atividade 7 (para entregar).exe
+D:\SharpDeveloper (Saiz)\Atividade 7 (para entregar)\Atividade 7 (para entregar)\obj\Debug\Atividade 7 (para entregar).pdb

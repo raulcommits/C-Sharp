@@ -1,0 +1,8 @@
+D:\SharpDeveloper (Saiz)\Atividade 17 (For)\Atividade 17 (For)\bin\Debug\Atividade 17 (For).exe.config
+D:\SharpDeveloper (Saiz)\Atividade 17 (For)\Atividade 17 (For)\bin\Debug\Atividade 17 (For).exe
+D:\SharpDeveloper (Saiz)\Atividade 17 (For)\Atividade 17 (For)\bin\Debug\Atividade 17 (For).pdb
+D:\SharpDeveloper (Saiz)\Atividade 17 (For)\Atividade 17 (For)\obj\Debug\Atividade 17 (For).csprojResolveAssemblyReference.cache
+D:\SharpDeveloper (Saiz)\Atividade 17 (For)\Atividade 17 (For)\obj\Debug\Atividade_17__For_.MainForm.resources
+D:\SharpDeveloper (Saiz)\Atividade 17 (For)\Atividade 17 (For)\obj\Debug\Atividade 17 (For).csproj.GenerateResource.Cache
+D:\SharpDeveloper (Saiz)\Atividade 17 (For)\Atividade 17 (For)\obj\Debug\Atividade 17 (For).exe
+D:\SharpDeveloper (Saiz)\Atividade 17 (For)\Atividade 17 (For)\obj\Debug\Atividade 17 (For).pdb

@@ -1,0 +1,8 @@
+D:\SharpDeveloper (Saiz)\Atividade 10\Atividade 10\bin\Debug\Atividade 10.exe.config
+D:\SharpDeveloper (Saiz)\Atividade 10\Atividade 10\bin\Debug\Atividade 10.exe
+D:\SharpDeveloper (Saiz)\Atividade 10\Atividade 10\bin\Debug\Atividade 10.pdb
+D:\SharpDeveloper (Saiz)\Atividade 10\Atividade 10\obj\Debug\Atividade 10.csprojResolveAssemblyReference.cache
+D:\SharpDeveloper (Saiz)\Atividade 10\Atividade 10\obj\Debug\Atividade_10.MainForm.resources
+D:\SharpDeveloper (Saiz)\Atividade 10\Atividade 10\obj\Debug\Atividade 10.csproj.GenerateResource.Cache
+D:\SharpDeveloper (Saiz)\Atividade 10\Atividade 10\obj\Debug\Atividade 10.exe
+D:\SharpDeveloper (Saiz)\Atividade 10\Atividade 10\obj\Debug\Atividade 10.pdb

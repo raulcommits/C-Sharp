@@ -1,0 +1,24 @@
+E:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\bin\Debug\Rodizios_de_Carros.exe.config
+E:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\bin\Debug\Rodizios_de_Carros.exe
+E:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\bin\Debug\Rodizios_de_Carros.pdb
+E:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.csprojResolveAssemblyReference.cache
+E:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.MainForm.resources
+E:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.csproj.GenerateResource.Cache
+E:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.exe
+E:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.pdb
+D:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\bin\Debug\Rodizios_de_Carros.exe.config
+D:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\bin\Debug\Rodizios_de_Carros.exe
+D:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\bin\Debug\Rodizios_de_Carros.pdb
+D:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.csprojResolveAssemblyReference.cache
+D:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.MainForm.resources
+D:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.csproj.GenerateResource.Cache
+D:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.exe
+D:\Programação e Algoritmo (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.pdb
+D:\C# (Programação e Algoritmos) (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\bin\Debug\Rodizios_de_Carros.exe.config
+D:\C# (Programação e Algoritmos) (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\bin\Debug\Rodizios_de_Carros.exe
+D:\C# (Programação e Algoritmos) (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\bin\Debug\Rodizios_de_Carros.pdb
+D:\C# (Programação e Algoritmos) (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.csprojResolveAssemblyReference.cache
+D:\C# (Programação e Algoritmos) (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.MainForm.resources
+D:\C# (Programação e Algoritmos) (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.csproj.GenerateResource.Cache
+D:\C# (Programação e Algoritmos) (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.exe
+D:\C# (Programação e Algoritmos) (Saiz)\Rodizios de Carros\Rodizios_de_Carros\Rodizios_de_Carros\obj\Debug\Rodizios_de_Carros.pdb

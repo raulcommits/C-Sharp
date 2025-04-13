@@ -1,0 +1,16 @@
+D:\SharpDeveloper (Saiz)\Atividade 14\Atividade 14\bin\Debug\Atividade 14.exe.config
+D:\SharpDeveloper (Saiz)\Atividade 14\Atividade 14\bin\Debug\Atividade 14.exe
+D:\SharpDeveloper (Saiz)\Atividade 14\Atividade 14\bin\Debug\Atividade 14.pdb
+D:\SharpDeveloper (Saiz)\Atividade 14\Atividade 14\obj\Debug\Atividade 14.csprojResolveAssemblyReference.cache
+D:\SharpDeveloper (Saiz)\Atividade 14\Atividade 14\obj\Debug\Atividade_14.MainForm.resources
+D:\SharpDeveloper (Saiz)\Atividade 14\Atividade 14\obj\Debug\Atividade 14.csproj.GenerateResource.Cache
+D:\SharpDeveloper (Saiz)\Atividade 14\Atividade 14\obj\Debug\Atividade 14.exe
+D:\SharpDeveloper (Saiz)\Atividade 14\Atividade 14\obj\Debug\Atividade 14.pdb
+D:\SharpDeveloper (Saiz)\Atividade 14 (Termômetro)\Atividade 14\bin\Debug\Atividade 14.exe.config
+D:\SharpDeveloper (Saiz)\Atividade 14 (Termômetro)\Atividade 14\bin\Debug\Atividade 14.exe
+D:\SharpDeveloper (Saiz)\Atividade 14 (Termômetro)\Atividade 14\bin\Debug\Atividade 14.pdb
+D:\SharpDeveloper (Saiz)\Atividade 14 (Termômetro)\Atividade 14\obj\Debug\Atividade 14.csprojResolveAssemblyReference.cache
+D:\SharpDeveloper (Saiz)\Atividade 14 (Termômetro)\Atividade 14\obj\Debug\Atividade_14.MainForm.resources
+D:\SharpDeveloper (Saiz)\Atividade 14 (Termômetro)\Atividade 14\obj\Debug\Atividade 14.csproj.GenerateResource.Cache
+D:\SharpDeveloper (Saiz)\Atividade 14 (Termômetro)\Atividade 14\obj\Debug\Atividade 14.exe
+D:\SharpDeveloper (Saiz)\Atividade 14 (Termômetro)\Atividade 14\obj\Debug\Atividade 14.pdb

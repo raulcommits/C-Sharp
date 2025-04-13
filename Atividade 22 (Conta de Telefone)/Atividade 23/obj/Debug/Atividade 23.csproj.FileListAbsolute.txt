@@ -1,0 +1,8 @@
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 23\Atividade 23\obj\Debug\Atividade 23.csprojResolveAssemblyReference.cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 23\Atividade 23\obj\Debug\Atividade_23.MainForm.resources
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 23\Atividade 23\obj\Debug\Atividade 23.csproj.GenerateResource.Cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 23\Atividade 23\bin\Debug\Atividade 23.exe.config
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 23\Atividade 23\bin\Debug\Atividade 23.exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 23\Atividade 23\bin\Debug\Atividade 23.pdb
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 23\Atividade 23\obj\Debug\Atividade 23.exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 23\Atividade 23\obj\Debug\Atividade 23.pdb

@@ -1,0 +1,8 @@
+D:\SharpDeveloper (Saiz)\Atividade 16 (Receita Federal)\Atividade 16 (Receita Federal)\obj\Debug\Atividade 16 (Receita Federal).csprojResolveAssemblyReference.cache
+D:\SharpDeveloper (Saiz)\Atividade 16 (Receita Federal)\Atividade 16 (Receita Federal)\obj\Debug\Atividade_16__Receita_Federal_.MainForm.resources
+D:\SharpDeveloper (Saiz)\Atividade 16 (Receita Federal)\Atividade 16 (Receita Federal)\obj\Debug\Atividade 16 (Receita Federal).csproj.GenerateResource.Cache
+D:\SharpDeveloper (Saiz)\Atividade 16 (Receita Federal)\Atividade 16 (Receita Federal)\bin\Debug\Atividade 16 (Receita Federal).exe.config
+D:\SharpDeveloper (Saiz)\Atividade 16 (Receita Federal)\Atividade 16 (Receita Federal)\bin\Debug\Atividade 16 (Receita Federal).exe
+D:\SharpDeveloper (Saiz)\Atividade 16 (Receita Federal)\Atividade 16 (Receita Federal)\bin\Debug\Atividade 16 (Receita Federal).pdb
+D:\SharpDeveloper (Saiz)\Atividade 16 (Receita Federal)\Atividade 16 (Receita Federal)\obj\Debug\Atividade 16 (Receita Federal).exe
+D:\SharpDeveloper (Saiz)\Atividade 16 (Receita Federal)\Atividade 16 (Receita Federal)\obj\Debug\Atividade 16 (Receita Federal).pdb

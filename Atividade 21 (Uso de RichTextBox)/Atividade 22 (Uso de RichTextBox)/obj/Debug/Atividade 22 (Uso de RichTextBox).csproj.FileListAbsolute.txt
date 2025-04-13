@@ -1,0 +1,8 @@
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 22 (Uso de RichTextBox)\Atividade 22 (Uso de RichTextBox)\bin\Debug\Atividade 22 (Uso de RichTextBox).exe.config
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 22 (Uso de RichTextBox)\Atividade 22 (Uso de RichTextBox)\bin\Debug\Atividade 22 (Uso de RichTextBox).exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 22 (Uso de RichTextBox)\Atividade 22 (Uso de RichTextBox)\bin\Debug\Atividade 22 (Uso de RichTextBox).pdb
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 22 (Uso de RichTextBox)\Atividade 22 (Uso de RichTextBox)\obj\Debug\Atividade 22 (Uso de RichTextBox).csprojResolveAssemblyReference.cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 22 (Uso de RichTextBox)\Atividade 22 (Uso de RichTextBox)\obj\Debug\Atividade_22__Uso_de_RichTextBox_.MainForm.resources
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 22 (Uso de RichTextBox)\Atividade 22 (Uso de RichTextBox)\obj\Debug\Atividade 22 (Uso de RichTextBox).csproj.GenerateResource.Cache
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 22 (Uso de RichTextBox)\Atividade 22 (Uso de RichTextBox)\obj\Debug\Atividade 22 (Uso de RichTextBox).exe
+D:\C# (Programação e Algoritmos) (Saiz)\Atividade 22 (Uso de RichTextBox)\Atividade 22 (Uso de RichTextBox)\obj\Debug\Atividade 22 (Uso de RichTextBox).pdb

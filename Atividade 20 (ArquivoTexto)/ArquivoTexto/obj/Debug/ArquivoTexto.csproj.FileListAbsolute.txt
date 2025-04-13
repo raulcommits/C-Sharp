@@ -1,0 +1,8 @@
+D:\C# (Programação e Algoritmos) (Saiz)\ArquivoTexto\ArquivoTexto\bin\Debug\ArquivoTexto.exe.config
+D:\C# (Programação e Algoritmos) (Saiz)\ArquivoTexto\ArquivoTexto\bin\Debug\ArquivoTexto.exe
+D:\C# (Programação e Algoritmos) (Saiz)\ArquivoTexto\ArquivoTexto\bin\Debug\ArquivoTexto.pdb
+D:\C# (Programação e Algoritmos) (Saiz)\ArquivoTexto\ArquivoTexto\obj\Debug\ArquivoTexto.csprojResolveAssemblyReference.cache
+D:\C# (Programação e Algoritmos) (Saiz)\ArquivoTexto\ArquivoTexto\obj\Debug\ArquivoTexto.MainForm.resources
+D:\C# (Programação e Algoritmos) (Saiz)\ArquivoTexto\ArquivoTexto\obj\Debug\ArquivoTexto.csproj.GenerateResource.Cache
+D:\C# (Programação e Algoritmos) (Saiz)\ArquivoTexto\ArquivoTexto\obj\Debug\ArquivoTexto.exe
+D:\C# (Programação e Algoritmos) (Saiz)\ArquivoTexto\ArquivoTexto\obj\Debug\ArquivoTexto.pdb
