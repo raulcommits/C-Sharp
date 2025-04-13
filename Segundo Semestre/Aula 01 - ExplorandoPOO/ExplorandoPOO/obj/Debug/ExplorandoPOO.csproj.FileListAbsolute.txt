@@ -1,0 +1,16 @@
+C:\Users\aluno\Documents\SharpDevelop Projects\ExplorandoPOO\ExplorandoPOO\bin\Debug\ExplorandoPOO.exe.config
+C:\Users\aluno\Documents\SharpDevelop Projects\ExplorandoPOO\ExplorandoPOO\bin\Debug\ExplorandoPOO.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\ExplorandoPOO\ExplorandoPOO\bin\Debug\ExplorandoPOO.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\ExplorandoPOO\ExplorandoPOO\obj\Debug\ExplorandoPOO.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\ExplorandoPOO\ExplorandoPOO\obj\Debug\ExplorandoPOO.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\ExplorandoPOO\ExplorandoPOO\obj\Debug\ExplorandoPOO.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\ExplorandoPOO\ExplorandoPOO\obj\Debug\ExplorandoPOO.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\ExplorandoPOO\ExplorandoPOO\obj\Debug\ExplorandoPOO.csproj.GenerateResource.Cache
+D:\ExplorandoPOO\ExplorandoPOO\bin\Debug\ExplorandoPOO.exe.config
+D:\ExplorandoPOO\ExplorandoPOO\bin\Debug\ExplorandoPOO.exe
+D:\ExplorandoPOO\ExplorandoPOO\bin\Debug\ExplorandoPOO.pdb
+D:\ExplorandoPOO\ExplorandoPOO\obj\Debug\ExplorandoPOO.csprojResolveAssemblyReference.cache
+D:\ExplorandoPOO\ExplorandoPOO\obj\Debug\ExplorandoPOO.MainForm.resources
+D:\ExplorandoPOO\ExplorandoPOO\obj\Debug\ExplorandoPOO.csproj.GenerateResource.Cache
+D:\ExplorandoPOO\ExplorandoPOO\obj\Debug\ExplorandoPOO.exe
+D:\ExplorandoPOO\ExplorandoPOO\obj\Debug\ExplorandoPOO.pdb
