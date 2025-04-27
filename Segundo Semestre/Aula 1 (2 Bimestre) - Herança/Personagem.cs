@@ -7,6 +7,9 @@
  * Para alterar este modelo use Ferramentas | Opções | Codificação | Editar Cabeçalhos Padrão.
  */
 using System;
+using System.Drawing;
+using System.Windows.Forms;
+using System.Collections.Generic;
 
 namespace Aula_1__2_Bimestre____Herança
 {
@@ -19,8 +22,8 @@ namespace Aula_1__2_Bimestre____Herança
 		{
 			Width = 90;
 			Height = 90;
-			SizeMode = 
-			BackColor = 
+			SizeMode = PictureBoxSizeMode.StretchImage;
+			BackColor = Color.Transparent;
 			Parent = MainForm.fundo;
 		}
 		public int ataque = 15;

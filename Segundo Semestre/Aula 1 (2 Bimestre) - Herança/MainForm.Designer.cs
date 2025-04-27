@@ -42,7 +42,7 @@ namespace Aula_1__2_Bimestre____Herança
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(278, 244);
+			this.ClientSize = new System.Drawing.Size(1018, 574);
 			this.KeyPreview = true;
 			this.Name = "MainForm";
 			this.Text = "Aula 1 (2 Bimestre) - Herança";

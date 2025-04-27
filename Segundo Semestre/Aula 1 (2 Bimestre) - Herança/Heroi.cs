@@ -7,6 +7,9 @@
  * Para alterar este modelo use Ferramentas | Opções | Codificação | Editar Cabeçalhos Padrão.
  */
 using System;
+using System.Drawing;
+using System.Windows.Forms;
+using System.Collections.Generic;
 
 namespace Aula_1__2_Bimestre____Herança
 {
@@ -20,14 +23,14 @@ namespace Aula_1__2_Bimestre____Herança
 			Left = 50;
 			Top = 100;
 			speed = 20;
-			Load("");
+			Load("Gargoyle.gif");
 			direcao = 1;
 		}
 		
 		public void MoveDir()
 		{
 			Left += speed;
-			if (Left >- 1000)
+			if (Left >= 1000)
 			{
 				Left = 0;
 			}
@@ -35,7 +38,7 @@ namespace Aula_1__2_Bimestre____Herança
 			if (direcao == -1)
 			{
 				direcao = 1;
-				Load("");
+				Load("Gargoyle.gif");
 				
 			}
 		}
@@ -50,7 +53,23 @@ namespace Aula_1__2_Bimestre____Herança
 			if (direcao == 1)
 			{
 				direcao = -1;
-				Load();
+				Load("GargoyleEsq.gif");
+			}
+		}
+		public void MoveCima()
+		{
+			Top -= speed;
+			if (Top <= 0)
+			{
+				Top = 0;
+			}
+		}
+		public void MoveContrarioDeCima()
+		{
+			Top += speed;
+			if (Top >= 360)
+			{
+				Top = 360;
 			}
 		}
 	}

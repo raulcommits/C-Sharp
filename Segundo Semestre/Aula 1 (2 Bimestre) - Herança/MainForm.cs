@@ -28,12 +28,28 @@ namespace Aula_1__2_Bimestre____Herança
 			fundo.Parent = this;
 			fundo.Height = this.Height - 120;
 			fundo.Width = this.Width;
-			fundo.Load("");
+			fundo.Load("cenario0.gif");
 			fundo.SizeMode = PictureBoxSizeMode.StretchImage;
 		}
 		void MainFormKeyDown(object sender, KeyEventArgs e)
 		{
-	
+			if (e.KeyCode == Keys.D)
+			{
+				heroi.MoveDir();
+			}
+			if (e.KeyCode == Keys.A)
+			{
+				heroi.MoveEsq();
+			}
+			if (e.KeyCode == Keys.W)
+			{
+				heroi.MoveCima();
+			}
+			if (e.KeyCode == Keys.S)
+			{
+				heroi.MoveContrarioDeCima();
+			}
 		}
+		
 	}
 }
