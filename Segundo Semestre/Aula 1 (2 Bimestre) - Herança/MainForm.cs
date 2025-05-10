@@ -22,6 +22,7 @@ namespace Aula_1__2_Bimestre____Herança
 		
 		public static PictureBox fundo = new PictureBox(); // VARIÁVEL ESTÁTICA
 		Heroi heroi = new Heroi();
+		static Inimigo inimigo = new Inimigo();
 		
 		void MainFormLoad(object sender, EventArgs e)
 		{
@@ -31,6 +32,7 @@ namespace Aula_1__2_Bimestre____Herança
 			fundo.Load("cenario0.gif");
 			fundo.SizeMode = PictureBoxSizeMode.StretchImage;
 		}
+		
 		void MainFormKeyDown(object sender, KeyEventArgs e)
 		{
 			if (e.KeyCode == Keys.D)
@@ -49,7 +51,10 @@ namespace Aula_1__2_Bimestre____Herança
 			{
 				heroi.MoveContrarioDeCima();
 			}
+			if (e.KeyCode == Keys.Space)
+			{
+				
+			}
 		}
-		
 	}
 }
