@@ -42,10 +42,12 @@ namespace Aula_1__2_Bimestre____Herança
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(1018, 574);
+			this.ClientSize = new System.Drawing.Size(1924, 944);
 			this.KeyPreview = true;
 			this.Name = "MainForm";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Aula 1 (2 Bimestre) - Herança";
+			this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
 			this.Load += new System.EventHandler(this.MainFormLoad);
 			this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.MainFormKeyDown);
 			this.ResumeLayout(false);

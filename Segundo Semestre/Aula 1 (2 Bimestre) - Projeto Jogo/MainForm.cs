@@ -24,13 +24,25 @@ namespace Aula_1__2_Bimestre____Herança
 		Heroi heroi = new Heroi();
 		static Inimigo inimigo = new Inimigo();
 		
+		public static ListBox listaTiros = new ListBox();
+		public static ProgressBar barra = new ProgressBar();
+		
 		void MainFormLoad(object sender, EventArgs e)
 		{
 			fundo.Parent = this;
-			fundo.Height = this.Height - 120;
+			fundo.Height = this.Height;
 			fundo.Width = this.Width;
 			fundo.Load("cenario0.gif");
 			fundo.SizeMode = PictureBoxSizeMode.StretchImage;
+			
+			barra.Parent = this;
+			barra.Left = 200;
+			barra.Top = this.Height - 90;
+			barra.Width = 200;
+			barra.Maximum = 6;
+			barra.Minimum = 0;
+			barra.Step = 1;
+			barra.Value = 6;
 		}
 		
 		void MainFormKeyDown(object sender, KeyEventArgs e)
@@ -53,7 +65,17 @@ namespace Aula_1__2_Bimestre____Herança
 			}
 			if (e.KeyCode == Keys.Space)
 			{
-				
+				if(barra.Value > 0)
+				{
+					Shot shot = new Shot();
+					listaTiros.Items.Add(shot);
+					shot.direcao = heroi.direcao;
+					shot.Load("fireball2.gif");
+					shot.Top = (int) heroi.Top + (heroi.Height/2) - shot.Height;
+					shot.Left = heroi.Left;
+					shot.personagemAlvo = inimigo;
+					barra.Value -= 1;
+				}
 			}
 		}
 	}

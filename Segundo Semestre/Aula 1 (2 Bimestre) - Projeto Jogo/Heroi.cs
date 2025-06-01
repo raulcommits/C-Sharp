@@ -30,7 +30,7 @@ namespace Aula_1__2_Bimestre____Herança
 		public void MoveDir()
 		{
 			Left += speed;
-			if (Left >= 1000)
+			if (Left >= 1200)
 			{
 				Left = 0;
 			}
@@ -39,7 +39,6 @@ namespace Aula_1__2_Bimestre____Herança
 			{
 				direcao = 1;
 				Load("Gargoyle.gif");
-				
 			}
 		}
 		public void MoveEsq()
@@ -67,9 +66,9 @@ namespace Aula_1__2_Bimestre____Herança
 		public void MoveContrarioDeCima()
 		{
 			Top += speed;
-			if (Top >= 360)
+			if (Top >= 490)
 			{
-				Top = 360;
+				Top = 490;
 			}
 		}
 	}

@@ -21,7 +21,7 @@ namespace Aula_1__2_Bimestre____Herança
 			Height = 95;
 			Width = 120;
 			Top = 120;
-			Left = 560;
+			Left = 1000;
 			Load("dragonEsq2.gif");
 			direcao = -1;
 			timerMovimento.Enabled = true;
@@ -36,7 +36,7 @@ namespace Aula_1__2_Bimestre____Herança
 		{
 			Top += speed * direcaoVertical;
 		
-			if (Top >= 180)
+			if (Top >= 400)
 			direcaoVertical = -1;
 		
 			if (Top <= 0)
@@ -47,7 +47,7 @@ namespace Aula_1__2_Bimestre____Herança
 		{
 			timerMovimento.Enabled = false;
 			Left = 6000;
-			this.Dispose();
+			Dispose();
 		}
 	}
 }
