@@ -1,0 +1,8 @@
+D:\DS\Banco de Dados\bin\Debug\Banco de Dados.exe.config
+D:\DS\Banco de Dados\bin\Debug\Banco de Dados.exe
+D:\DS\Banco de Dados\bin\Debug\Banco de Dados.pdb
+D:\DS\Banco de Dados\obj\Debug\Banco de Dados.csprojResolveAssemblyReference.cache
+D:\DS\Banco de Dados\obj\Debug\Banco_de_Dados.MainForm.resources
+D:\DS\Banco de Dados\obj\Debug\Banco de Dados.csproj.GenerateResource.Cache
+D:\DS\Banco de Dados\obj\Debug\Banco de Dados.exe
+D:\DS\Banco de Dados\obj\Debug\Banco de Dados.pdb

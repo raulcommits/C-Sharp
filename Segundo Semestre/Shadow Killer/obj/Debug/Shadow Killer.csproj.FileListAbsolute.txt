@@ -1,0 +1,48 @@
+D:\DS\Shadow Killer\bin\Debug\Shadow Killer.exe.config
+D:\DS\Shadow Killer\bin\Debug\Shadow Killer.exe
+D:\DS\Shadow Killer\bin\Debug\Shadow Killer.pdb
+D:\DS\Shadow Killer\obj\Debug\Shadow Killer.csprojResolveAssemblyReference.cache
+D:\DS\Shadow Killer\obj\Debug\Shadow_Killer.MainForm.resources
+D:\DS\Shadow Killer\obj\Debug\Shadow Killer.csproj.GenerateResource.Cache
+D:\DS\Shadow Killer\obj\Debug\Shadow Killer.exe
+D:\DS\Shadow Killer\obj\Debug\Shadow Killer.pdb
+C:\Users\Rnote\Desktop\Shadow Killer\bin\Debug\Shadow Killer.exe.config
+C:\Users\Rnote\Desktop\Shadow Killer\bin\Debug\Shadow Killer.exe
+C:\Users\Rnote\Desktop\Shadow Killer\bin\Debug\Shadow Killer.pdb
+C:\Users\Rnote\Desktop\Shadow Killer\obj\Debug\Shadow Killer.csprojResolveAssemblyReference.cache
+C:\Users\Rnote\Desktop\Shadow Killer\obj\Debug\Shadow_Killer.MainForm.resources
+C:\Users\Rnote\Desktop\Shadow Killer\obj\Debug\Shadow Killer.csproj.GenerateResource.Cache
+C:\Users\Rnote\Desktop\Shadow Killer\obj\Debug\Shadow Killer.exe
+C:\Users\Rnote\Desktop\Shadow Killer\obj\Debug\Shadow Killer.pdb
+E:\DS\Shadow Killer\bin\Debug\Shadow Killer.exe.config
+E:\DS\Shadow Killer\bin\Debug\Shadow Killer.exe
+E:\DS\Shadow Killer\bin\Debug\Shadow Killer.pdb
+E:\DS\Shadow Killer\obj\Debug\Shadow Killer.csprojResolveAssemblyReference.cache
+E:\DS\Shadow Killer\obj\Debug\Shadow_Killer.MainForm.resources
+E:\DS\Shadow Killer\obj\Debug\Shadow Killer.csproj.GenerateResource.Cache
+E:\DS\Shadow Killer\obj\Debug\Shadow Killer.exe
+E:\DS\Shadow Killer\obj\Debug\Shadow Killer.pdb
+C:\Users\rosac\Downloads\Shadow Killer\bin\Debug\Shadow Killer.exe.config
+C:\Users\rosac\Downloads\Shadow Killer\bin\Debug\Shadow Killer.exe
+C:\Users\rosac\Downloads\Shadow Killer\bin\Debug\Shadow Killer.pdb
+C:\Users\rosac\Downloads\Shadow Killer\obj\Debug\Shadow Killer.csprojResolveAssemblyReference.cache
+C:\Users\rosac\Downloads\Shadow Killer\obj\Debug\Shadow_Killer.MainForm.resources
+C:\Users\rosac\Downloads\Shadow Killer\obj\Debug\Shadow Killer.csproj.GenerateResource.Cache
+C:\Users\rosac\Downloads\Shadow Killer\obj\Debug\Shadow Killer.exe
+C:\Users\rosac\Downloads\Shadow Killer\obj\Debug\Shadow Killer.pdb
+C:\Users\Alunos\Downloads\Shadow Killer\bin\Debug\Shadow Killer.exe.config
+C:\Users\Alunos\Downloads\Shadow Killer\bin\Debug\Shadow Killer.exe
+C:\Users\Alunos\Downloads\Shadow Killer\bin\Debug\Shadow Killer.pdb
+C:\Users\Alunos\Downloads\Shadow Killer\obj\Debug\Shadow Killer.csprojResolveAssemblyReference.cache
+C:\Users\Alunos\Downloads\Shadow Killer\obj\Debug\Shadow_Killer.MainForm.resources
+C:\Users\Alunos\Downloads\Shadow Killer\obj\Debug\Shadow Killer.csproj.GenerateResource.Cache
+C:\Users\Alunos\Downloads\Shadow Killer\obj\Debug\Shadow Killer.exe
+C:\Users\Alunos\Downloads\Shadow Killer\obj\Debug\Shadow Killer.pdb
+D:\Usuários\Rnote\Downloads\Shadow Killer\bin\Debug\Shadow Killer.exe.config
+D:\Usuários\Rnote\Downloads\Shadow Killer\bin\Debug\Shadow Killer.exe
+D:\Usuários\Rnote\Downloads\Shadow Killer\bin\Debug\Shadow Killer.pdb
+D:\Usuários\Rnote\Downloads\Shadow Killer\obj\Debug\Shadow Killer.csprojResolveAssemblyReference.cache
+D:\Usuários\Rnote\Downloads\Shadow Killer\obj\Debug\Shadow_Killer.MainForm.resources
+D:\Usuários\Rnote\Downloads\Shadow Killer\obj\Debug\Shadow Killer.csproj.GenerateResource.Cache
+D:\Usuários\Rnote\Downloads\Shadow Killer\obj\Debug\Shadow Killer.exe
+D:\Usuários\Rnote\Downloads\Shadow Killer\obj\Debug\Shadow Killer.pdb
